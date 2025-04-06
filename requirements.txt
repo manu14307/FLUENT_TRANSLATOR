@@ -8,6 +8,7 @@ translate
 googletrans
 python-docx
 bs4
+easyocr
 PyMuPDF
 pytesseract
 fitz
