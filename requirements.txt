@@ -5,7 +5,7 @@ gtts
 pyttsx3
 pillow
 translate
-googletrans
+googletrans==4.0.0-rc1
 python-docx
 bs4
 PyMuPDF
@@ -16,7 +16,7 @@ PyPDF2
 langdetect
 SpeechRecognition
 pydub
-transformers
+transformers==4.28.0
 nltk
 spacy
 reportlab
