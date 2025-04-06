@@ -11,7 +11,7 @@ bs4
 PyMuPDF
 pytesseract
 fitz
-easyocr
+transformers
 PyPDF2
 langdetect
 SpeechRecognition
